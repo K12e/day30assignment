@@ -1,0 +1,13 @@
+package TDD;
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class InvoiceServiceTestTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
